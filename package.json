@@ -1,0 +1,23 @@
+{
+  "name": "combat-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobRyanHanson/combat-rpg.git"
+  },
+  "author": "Jacob Hanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobRyanHanson/combat-rpg/issues"
+  },
+  "homepage": "https://github.com/JacobRyanHanson/combat-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
